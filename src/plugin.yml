@@ -1,0 +1,10 @@
+name: NanoRedstoneTweaks
+version: 1.0
+api-version: 1.14
+author: Nano_
+main: fr.topred.Nano.nanoredstonetweaks.Main
+website: topred.fr
+commands:
+  f:
+    description: Puts down a furnace with the correct signal strenght
+    usage: /f [0-15]

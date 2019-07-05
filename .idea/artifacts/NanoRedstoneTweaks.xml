@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="NanoRedstoneTweaks">
+    <output-path>$PROJECT_DIR$/../../../Plugin server 1.14.2/plugins</output-path>
+    <root id="archive" name="NanoRedstoneTweaks.jar">
+      <element id="module-output" name="Nano's Redstone Tweaks" />
+      <element id="library" level="project" name="spigot-1.14.2" />
+      <element id="library" level="project" name="PlotSquared-Bukkit-4.277" />
+    </root>
+  </artifact>
+</component>
